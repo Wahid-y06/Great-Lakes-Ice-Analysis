@@ -71,3 +71,25 @@ Great-Lakes-Ice-Analysis/
 │   └── (screenshots if added)
 │
 └── README.md
+```
+## How to Generate Graphs
+- run : gnuplot plots/6lakesplot.gp
+- run: gnuplot/plots/Concentationplot.gp
+- This will generate PNG graphs in plots/ folder
+---
+
+## Technologies Used
+- C programming
+- CSV Data Processing
+- File I/O
+- Structured Data Modeling
+- Gnuplot(Data Visualization)
+- Command-line Tools
+
+---
+## Author
+- **Wahid-y06**(Yahya)
+- Toronto Metropolitan University
+- CPS188 - Term Project
+- Winter 2025
+
